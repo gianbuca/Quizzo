@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quizzo</string>
+    <string name="app_subtitle">sasasassssasas</string>
+    <string name="ask_user_name">INSERISCI IL TUO NOME</string>
+    <string name="hint_user_name">insert here your name</string>
+    <string name="start">start</string>
+
+</resources>
