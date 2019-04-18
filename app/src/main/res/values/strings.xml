@@ -4,5 +4,6 @@
     <string name="ask_user_name">INSERISCI IL TUO NOME</string>
     <string name="hint_user_name">insert here your name</string>
     <string name="start">start</string>
+    <string name="confirm_Answer">Confirm</string>
 
 </resources>
